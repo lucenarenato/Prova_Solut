@@ -1,5 +1,6 @@
-# Prova_Soluti
-### Zend framework2-apigility-doctrine-PHPSECLIB-certificado
+# Prova Soluti - pleno
+### Zend framework 2
+### apigility-doctrine-PHPSECLIB
 ### "requisitos obrigatórios"
 ### Installation
 Install the dependencies and devDependencies and start the server.
@@ -28,17 +29,17 @@ CREATE TABLE `certificados` (
 ```
 - ***************************
 - Deverá ser desenvolvida com
-https://getcomposer.org/
-https://apigility.org/
-https://github.com/zendframework/ZendSkeletonApplication
-https://github.com/reinaldoborges/
-https://github.com/phpseclib/phpseclib
-http://phpseclib.sourceforge.net/
+- https://getcomposer.org/
+- https://apigility.org/
+- https://github.com/zendframework/ZendSkeletonApplication
+- https://github.com/reinaldoborges/
+- https://github.com/phpseclib/phpseclib
+- http://phpseclib.sourceforge.net/
 ```sh
 $ php -S 127.0.0.1:8000 -t public/ public/index.php
 ```
 > Agora e so desenvolver,
-> Nos requisitos usei ubuntu 16.04 lts,
+> Nos requisitos usei ubuntu 16.04 lts.
 > Os programas sao faceis de instalar, mas,
 > por falta de conhecimento dos frameworks mais aprofundado, nao consegui implementar.
 >cpdrenato@gmail.com, 
