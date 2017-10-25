@@ -1,4 +1,4 @@
-# Prova_Solut
+# Prova_Soluti
 ### Zend framework2-apigility-doctrine-PHPSECLIB-certificado
 ### "requisitos obrigatórios"
 ### Installation
@@ -37,11 +37,11 @@ http://phpseclib.sourceforge.net/
 ```sh
 $ php -S 127.0.0.1:8000 -t public/ public/index.php
 ```
-> Agora e so desenvolver
-> Nos requisitos usei ubuntu 16.04 lts
-> Os programas sao faceis de instalar, mas...
+> Agora e so desenvolver,
+> Nos requisitos usei ubuntu 16.04 lts,
+> Os programas sao faceis de instalar, mas,
 > por falta de conhecimento dos frameworks mais aprofundado, nao consegui implementar.
->cpdrenato@gmail.com
+>cpdrenato@gmail.com, 
 >Grande abraço e até a próxima.
 
 
