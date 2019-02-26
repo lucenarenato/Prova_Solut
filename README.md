@@ -38,11 +38,23 @@ CREATE TABLE `certificados` (
 ```sh
 $ php -S 127.0.0.1:8000 -t public/ public/index.php
 ```
+
+<p align="center"><img src="apigility.png"></p>
+<br>
+<p align="center"><img src="front end zend.png"></p>
+<br>
+<p align="center"><img src="zend hmac.png"></p>
+
 > Agora e so desenvolver,
 > Nos requisitos usei ubuntu 16.04 lts.
 > Os programas sao faceis de instalar, mas,
 > por falta de conhecimento dos frameworks mais aprofundado, nao consegui implementar.
 >cpdrenato@gmail.com, 
 >Grande abraço e até a próxima.
+
+- Exemplo: https://github.com/reinaldoborges/rb-sphinx-hmac-zf2-examples-server
+
+
+- Renato Lucena  - Outubro de 2017
 
 
